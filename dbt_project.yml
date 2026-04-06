@@ -1,0 +1,19 @@
+name: innovate_vault
+
+profile: innovate_vault
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  innovate_vault:
+    staging:
+      +materialized: view
+      +schema: STAGING
+    raw_vault:
+      +materialized: incremental
+      +schema: RAW_VAULT
+      +incremental_strategy: append

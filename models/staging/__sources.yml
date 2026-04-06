@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: innovate
+    database: INNOVATE
+    schema: PUBLIC
+    tables:
+      - name: STORE
+        description: "Physical retail store locations"
+      - name: ITEM
+        description: "Product catalog items"
+      - name: CUSTOMER
+        description: "Individual customers"
+      - name: STORE_ITEM
+        description: "Store-item inventory associations"
+      - name: CUSTOMER_ORDER
+        description: "Customer order transactions"
