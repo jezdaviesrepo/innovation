@@ -1,0 +1,630 @@
+arxiv_id	file
+2401.02115v1	Using LLM to select the right SQL Query from candidates.pdf
+2401.02997v1	Blar-SQL - Faster, Stronger, Smaller NL2SQL.pdf
+2401.10506v1	FinSQL - Model-Agnostic LLMs-based Text-to-SQL Framework for Financial Analysis.pdf
+2401.12379v1	Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis.pdf
+2402.01117v1	DTS-SQL - Decomposed Text-to-SQL with Small Large Language Models.pdf
+2402.07304v1	Insights into Natural Language Database Query Errors - From Attention Misalignment to User Handling Strategies.pdf
+2402.07332v4	DePLOI - Applying NL2SQL to Synthesize and Audit Database Access Control.pdf
+2402.07448v1	AraSpider - Democratizing Arabic-to-SQL.pdf
+2402.08100v1	Investigating the Impact of Data Contamination of Large Language Models in Text-to-SQL Translation.pdf
+2402.08349v3	Evaluating the Data Model Robustness of Text-to-SQL Systems Based on Real User Queries.pdf
+2402.08666v1	Improving Generalization in Semantic Parsing by Increasing Natural Language Variation.pdf
+2402.10663v3	Improving Demonstration Diversity by Human-Free Fusing for Text-to-SQL.pdf
+2402.10666v5	MURRE - Multi-Hop Table Retrieval with Removal for Open-Domain Text-to-SQL.pdf
+2402.10671v3	Decomposition for Enhancing Attention - Improving LLM-based Text-to-SQL through Workflow Paradigm.pdf
+2402.10890v2	When is Tree Search Useful for LLM Planning It Depends on the Discriminator.pdf
+2402.11517v3	Knowledge-to-SQL - Enhancing SQL Generation with Data Expert LLM.pdf
+2402.12243v4	Understanding the Effects of Noise in Text-to-SQL - An Examination of the BIRD-Bench Benchmark.pdf
+2402.12554v2	Archer - A Human-Labeled Text-to-SQL Dataset with Arithmetic, Commonsense and Hypothetical Reasoning.pdf
+2402.13284v4	Structure Guided Large Language Model for SQL Generation.pdf
+2402.14851v2	R^3 - This is My SQL, Are You With Me A Consensus-Based Multi-Agent System for Text-to-SQL Tasks.pdf
+2402.15012v1	Ar-Spider - Text-to-SQL in Arabic.pdf
+2402.16347v1	CodeS - Towards Building Open-source Language Models for Text-to-SQL.pdf
+2403.00872v1	DFIN-SQL - Integrating Focused Schema with DIN-SQL for Superior Accuracy in Large-Scale Databases.pdf
+2403.02951v3	SQLBench - A Comprehensive Evaluation for Text-to-SQL Capabilities of Large Language Models.pdf
+2403.09226v2	Retrieval augmented text-to-SQL generation for epidemiological question answering using electronic health records.pdf
+2403.09706v1	Schema-Aware Multi-Task Learning for Complex Text-to-SQL.pdf
+2403.09732v4	PET-SQL - A Prompt-Enhanced Two-Round Refinement of Text-to-SQL with Cross-consistency.pdf
+2403.15879v6	TrustSQL - Benchmarking Text-to-SQL Reliability with Penalty-Based Scoring.pdf
+2403.16204v1	SQL-Encoder - Improving NL2SQL In-Context Learning Through a Context-Aware Encoder.pdf
+2403.20014v1	PURPLE - Making a Large Language Model a Better SQL Writer.pdf
+2404.02389v1	On Linearizing Structured Data in Encoder-Decoder Language Models - Insights from Text-to-SQL.pdf
+2404.10150v1	TabSQLify - Enhancing Reasoning Capabilities of LLMs Through Table Decomposition.pdf
+2404.10209v3	Demonstration of DB-GPT - Next Generation Data Interaction System Empowered by Large Language Models.pdf
+2404.12560v1	Dubo-SQL - Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL.pdf
+2404.13074v1	Towards Compositionally Generalizable Semantic Parsing in Large Language Models - A Survey.pdf
+2404.14453v1	EPI-SQL - Enhancing Text-to-SQL Translation with Error-Prevention Instructions.pdf
+2404.16659v1	ProbGate at EHRSQL 2024 - Enhancing SQL Query Generation Accuracy through Probabilistic Threshold Filtering and Error Handling.pdf
+2405.00527v1	ChatBI - Towards Natural Language to Complex Business Intelligence SQL.pdf
+2405.02712v1	CoE-SQL - In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions.pdf
+2405.06673v2	Overview of the EHRSQL 2024 Shared Task on Reliable Text-to-SQL Modeling on Electronic Health Records.pdf
+2405.06674v1	Open-SQL Framework - Enhancing Text-to-SQL on Open-source Large Language Models.pdf
+2405.07467v1	MCS-SQL - Leveraging Multiple Prompts and Multiple-Choice Selection For Text-to-SQL Generation.pdf
+2405.08839v1	PromptMind Team at EHRSQL-2024 - Improving Reliability of SQL Generation using Ensemble LLMs.pdf
+2405.09593v1	SQL-to-Schema Enhances Schema Linking in Text-to-SQL.pdf
+2405.11162v1	LG AI Research & KAIST at EHRSQL 2024 - Self-Training Large Language Models with Pseudo-Labeled Unanswerable Questions for a Reliable Text-to-SQL System on EHRs.pdf
+2405.11706v1	Increasing the LLM Accuracy for Question Answering - Ontologies to the Rescue!.pdf
+2405.15307v1	Before Generation, Align it! A Novel and Effective Strategy for Mitigating Hallucinations in Text-to-SQL Generation.pdf
+2405.16755v3	CHESS - Contextual Harnessing for Efficient SQL Synthesis.pdf
+2406.00014v2	KU-DMIS at EHRSQL 2024 -Generating SQL query via question templatization in EHR.pdf
+2406.00019v3	EHR-SeqSQL - A Sequential Text-to-SQL Dataset For Interactively Exploring Electronic Health Records.pdf
+2406.01265v3	The Dawn of Natural Language to SQL - Are We Fully Ready.pdf
+2406.03170v2	StatBot.Swiss - Bilingual Open Data Exploration in Natural Language.pdf
+2406.07860v1	BookSQL - A Large Scale Text-to-SQL Dataset for Accounting Domain.pdf
+2406.07913v1	DeTriever - Decoder-representation-based Retriever for Improving NL2SQL In-Context Learning.pdf
+2406.08426v8	Next-Generation Database Interfaces - A Survey of LLM-based Text-to-SQL.pdf
+2406.09133v1	RH-SQL - Refined Schema and Hardness Prompt for Text-to-SQL.pdf
+2406.10593v3	QDA-SQL - Questions Enhanced Dialogue Augmentation for Multi-Turn Text-to-SQL.pdf
+2406.11434v1	DB-GPT-Hub - Towards Open Benchmarking Text-to-SQL Empowered by Large Language Models.pdf
+2406.12104v1	End-to-end Text-to-SQL Generation within an Analytics Insight Engine.pdf
+2406.12692v3	MAGIC - Generating Self-Correction Guideline for In-Context Text-to-SQL.pdf
+2406.13408v6	SQLFixAgent - Towards Semantic-Accurate Text-to-SQL Parsing via Consistency-Enhanced Multi-Agent Collaboration.pdf
+2406.14545v3	Unmasking Database Vulnerabilities - Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems.pdf
+2406.17574v1	Beyond Text-to-SQL for IoT Defense - A Comprehensive Framework for Querying and Classifying IoT Threats.pdf
+2406.19073v2	AMBROSIA - A Benchmark for Parsing Ambiguous Questions into Database Queries.pdf
+2407.01183v3	TCSR-SQL - Towards Table Content-aware Text-to-SQL with Self-retrieval.pdf
+2407.03227v2	Improving Retrieval-augmented Text-to-SQL with AST-based Ranking and Schema Pruning.pdf
+2407.05153v1	Lucy - Think and Reason to Solve Text-to-SQL.pdf
+2407.07313v4	ETM - Modern Insights into Perspective on Text-to-SQL Evaluation in the Age of Large Language Models.pdf
+2407.12749v3	ChipXplore - Natural Language Exploration of Hardware Designs and Libraries.pdf
+2407.14568v1	SQLfuse - Enhancing Text-to-SQL Performance through Comprehensive LLM Synergy.pdf
+2407.14767v2	I Need Help! Evaluating LLM's Ability to Ask for Users' Support - A Case Study on Text-to-SQL Generation.pdf
+2407.15186v5	A Survey on Employing Large Language Models for Text-to-SQL Tasks.pdf
+2407.19517v1	Evaluating LLMs for Text-to-SQL Generation With Complex SQL Workload.pdf
+2407.20256v1	Making LLMs Work for Enterprise Data Tasks.pdf
+2407.21040v1	Towards Automated Data Sciences with Natural Language and SageCopilot - Practices and Lessons Learned.pdf
+2408.03256v1	Synthesizing Text-to-SQL Data from Weak and Strong LLMs.pdf
+2408.04691v4	Synthetic SQL Column Descriptions and Their Impact on Text-to-SQL Performance.pdf
+2408.04919v2	SEA-SQL - Semantic-Enhanced Text-to-SQL with Adaptive Refinement.pdf
+2408.05109v7	A Survey of Text-to-SQL in the Era of LLMs - Where are we, and where are we going.pdf
+2408.07702v2	The Death of Schema Linking Text-to-SQL in the Age of Well-Reasoned Language Models.pdf
+2408.07930v4	MAG-SQL - Multi-Agent Generative Approach with Soft Schema Linking and Iterative Sub-SQL Refinement for Text-to-SQL.pdf
+2408.08779v2	DAC - Decomposed Automation Correction for Text-to-SQL.pdf
+2408.11062v2	Multi-Turn Interactions for Text-to-SQL with Large Language Models.pdf
+2408.12733v2	SQL-GEN - Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging.pdf
+2408.16991v1	Tool-Assisted Agent on SQL Inspection and Refinement in Real-World Scenarios.pdf
+2409.02038v3	BEAVER - An Enterprise Benchmark for Text-to-SQL.pdf
+2409.05735v2	A System and Benchmark for LLM-based Q&A on Heterogeneous Data.pdf
+2409.10007v1	SelECT-SQL - Self-correcting ensemble Chain-of-Thought for Text-to-SQL.pdf
+2409.11056v2	Large Language Models are Good Multi-lingual Learners - When LLMs Meet Cross-lingual Prompts.pdf
+2409.12172v1	You Only Read Once (YORO) - Learning to Internalize Database Knowledge for Text-to-SQL.pdf
+2409.14082v1	PTD-SQL - Partitioning and Targeted Drilling with LLMs in Text-to-SQL.pdf
+2409.15907v2	Enhancing Text-to-SQL Capabilities of Large Language Models via Domain Database Knowledge Injection.pdf
+2409.15985v1	DataGpt-SQL-7B - An Open-Source Language Model for Text-to-SQL.pdf
+2409.16682v2	SynTQA - Synergistic Table-based Question Answering via Mixture of Text-to-SQL and E2E TQA.pdf
+2409.16751v2	E-SQL - Direct Schema Linking via Question Enrichment in Text-to-SQL.pdf
+2409.18821v1	Data Generation for Testing Complex Queries.pdf
+2409.19014v4	FLEX - Expert-level False-Less EXecution Metric for Reliable Text-to-SQL Benchmark.pdf
+2410.01066v2	From Natural Language to SQL - Review of LLM-based Text-to-SQL Systems.pdf
+2410.01869v1	Enhancing LLM Fine-tuning for Text-to-SQLs by SQL Quality Measurement.pdf
+2410.01943v1	CHASE-SQL - Multi-Path Reasoning and Preference Optimized Candidate Selection in Text-to-SQL.pdf
+2410.06011v1	Large Language Model Enhanced Text-to-SQL Generation - A Survey.pdf
+2410.11076v2	PRACTIQ - A Practical Conversational Text-to-SQL dataset with Ambiguous and Unanswerable Queries.pdf
+2410.11371v1	Learning from Imperfect Data - Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL.pdf
+2410.12916v2	MSc-SQL - Multi-Sample Critiquing Small Language Models For Text-To-SQL Translation.pdf
+2410.14049v1	Learning Metadata-Agnostic Representations for Text-to-SQL In-Context Example Selection.pdf
+2410.16283v2	Understanding the Effect of Algorithm Transparency of Model Explanations in Text-to-SQL Semantic Parsing.pdf
+2410.22082v1	An Actor-Critic Approach to Boosting Text-to-SQL Large Language Model.pdf
+2410.22925v1	BIS - NL2SQL Service Evaluation Benchmark for Business Intelligence Scenarios.pdf
+2411.00073v2	RSL-SQL - Robust Schema Linking in Text-to-SQL Generation.pdf
+2411.00788v1	KeyInst - Keyword Instruction for Improving SQL Formulation in Text-to-SQL.pdf
+2411.02948v2	Grounding Natural Language to SQL Translation with Data-Based Self-Explanations.pdf
+2411.04319v1	Towards Optimizing SQL Generation via LLM Routing.pdf
+2411.04975v3	SuffixDecoding - Extreme Speculative Decoding for Emerging AI Applications.pdf
+2411.07763v2	Spider 2.0 - Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows.pdf
+2411.08599v3	A Preview of XiYan-SQL - A Multi-Generator Ensemble Framework for Text-to-SQL.pdf
+2411.12128v3	The Role of Accuracy and Validation Effectiveness in Conversational Business Analytics.pdf
+2411.13244v1	Leveraging Prior Experience - An Expandable Auxiliary Knowledge Base for Text-to-SQL.pdf
+2411.16742v1	Text-to-SQL Calibration - No Need to Ask -- Just Rescale Model Probabilities.pdf
+2411.18923v2	EzSQL - An SQL intermediate representation for improving SQL-to-text Generation.pdf
+2412.02205v3	DataLab - A Unified Platform for LLM-Powered Business Intelligence.pdf
+2412.02602v1	CEGI - Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs.pdf
+2412.05208v2	A Survey of Large Language Model-Based Generative AI for Text-to-SQL - Benchmarks, Applications, Use Cases, and Challenges.pdf
+2412.05850v1	Cooperative SQL Generation for Segmented Databases By Using Multi-functional LLM Agents.pdf
+2412.07214v3	Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models.pdf
+2412.10138v3	ROUTE - Robust Multitask Tuning and Collaboration for Text-to-SQL.pdf
+2412.12522v1	Solid-SQL - Enhanced Schema-linking based In-context Learning for Robust Text-to-SQL.pdf
+2412.17068v1	A Plug-and-Play Natural Language Rewriter for Natural Language to SQL.pdf
+2412.17867v4	Evaluating and Enhancing LLMs for Multi-turn Text-to-SQL with Multiple Question Types.pdf
+2412.17942v1	Contrato360 2.0 - A Document and Database-Driven Question-Answer System using Large Language Models and Agents.pdf
+2412.18428v2	Multi-Modal Data Exploration via Language Agents.pdf
+2501.01237v2	Self-Refinement Strategies for LLM-based Product Attribute Value Extraction.pdf
+2501.09310v3	Understanding, Detecting, and Repairing Real-World In-Context-Learning-Based Text-to-SQL Errors.pdf
+2501.09527v1	Confidence Estimation for Error Detection in Text-to-SQL Systems.pdf
+2501.10858v1	Reliable Text-to-SQL with Adaptive Abstention.pdf
+2501.11498v1	Dialect2SQL - A Novel Text-to-SQL Dataset for Arabic Dialects with a Focus on Moroccan Darija.pdf
+2501.12372v6	Is Long Context All You Need Leveraging LLM's Extended Context for NL2SQL.pdf
+2501.13594v1	Text-to-SQL based on Large Language Models and Database Keyword Search.pdf
+2501.16607v3	MCTS-SQL - Light-Weight LLMs can Master the Text-to-SQL through Monte Carlo Tree Search.pdf
+2501.17174v1	Extractive Schema Linking for Text-to-SQL.pdf
+2502.00329v1	CoddLLM - Empowering Large Language Models for Data Analytics.pdf
+2502.00675v5	ReFoRCE - A Text-to-SQL Agent with Self-Refinement, Consensus Enforcement, and Column Exploration.pdf
+2502.05237v1	PSM-SQL - Progressive Schema Learning with Multi-granularity Semantics for Text-to-SQL.pdf
+2502.06759v4	Rationalization Models for Text-to-SQL.pdf
+2502.08056v1	Cognify - Supercharging Gen-AI Workflows With Hierarchical Autotuning.pdf
+2502.10739v1	BASE-SQL - A powerful open source Text-To-SQL baseline approach.pdf
+2502.11201v3	Bridging the Gap - Enabling Natural Language Queries for NoSQL Databases through Text-to-NoSQL Translation.pdf
+2502.11438v3	SAFE-SQL - Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL.pdf
+2502.11656v1	Uncovering the Impact of Chain-of-Thought Reasoning for Direct Preference Optimization - Lessons from Text-to-SQL.pdf
+2502.11741v3	SQL-o1 - A Self-Reward Heuristic Dynamic Search Method for Text-to-SQL.pdf
+2502.12908v2	Graph Neural Networks for Databases - A Survey.pdf
+2502.12911v3	Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation.pdf
+2502.13550v1	STaR-SQL - Self-Taught Reasoner for Text-to-SQL.pdf
+2502.13805v2	AnDB - Breaking Boundaries with an AI-Native Database for Universal Semantic Analysis.pdf
+2502.14682v1	Bridging the Gap - Transforming Natural Language Questions into SQL Queries via Abstract Query Pattern and Contextual Schema Markup.pdf
+2502.14913v1	OpenSearch-SQL - Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment.pdf
+2502.15182v1	LEDD - Large Language Model-Empowered Data Discovery in Data Lakes.pdf
+2502.15686v1	V-SQL - A View-based Two-stage Text-to-SQL Framework.pdf
+2502.15723v3	Balancing Content Size in RAG-Text2SQL System.pdf
+2502.15980v2	Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation.pdf
+2502.16747v2	SQLong - Enhanced NL2SQL for Longer Contexts with LLMs.pdf
+2502.17248v2	Alpha-SQL - Zero-Shot Text-to-SQL using Monte Carlo Tree Search.pdf
+2502.18448v2	Disambiguate First, Parse Later - Generating Interpretations for Ambiguity Resolution in Semantic Parsing.pdf
+2502.20657v1	Automatic database description generation for Text-to-SQL.pdf
+2502.21107v2	Generating patient cohorts from electronic health records using two-step retrieval-augmented text-to-SQL generation.pdf
+2503.02240v2	OmniSQL - Synthesizing High-quality Text-to-SQL Data at Scale.pdf
+2503.04959v2	DB-Explore - Automated Database Exploration and Instruction Synthesis for Text-to-SQL.pdf
+2503.05445v3	Are Your LLM-based Text-to-SQL Models Secure Exploring SQL Injection via Backdoor Attacks.pdf
+2503.07996v4	SQLCritic - Correcting Text-to-SQL Generation via Clause-wise Critic.pdf
+2503.11984v2	NL2SQL-BUGs - A Benchmark for Detecting Semantic Errors in NL2SQL Translation.pdf
+2503.12062v1	Genicious - Contextual Few-shot Prompting for Insights Discovery.pdf
+2503.12730v5	TinySQL - A Progressive Text-to-SQL Dataset for Mechanistic Interpretability Research.pdf
+2503.13269v2	DAgent - A Relational Database-Driven Data Analysis Report Generation Agent.pdf
+2503.13342v1	Valid Text-to-SQL Generation with Unification-based DeepStochLog.pdf
+2503.17811v3	Feather-SQL - A Lightweight NL2SQL Framework with Dual-Model Collaboration Paradigm for Small Language Models.pdf
+2503.18596v4	LinkAlign - Scalable Schema Linking for Real-World Large-Scale Multi-Database Text-to-SQL.pdf
+2503.19988v1	ExCoT - Optimizing Reasoning for Text-to-SQL with Execution Feedback.pdf
+2503.21602v1	GenEdit - Compounding Operators and Continuous Improvement to Tackle Text-to-SQL in the Enterprise.pdf
+2503.22402v2	EllieSQL - Cost-Efficient Text-to-SQL with Complexity-Aware Routing.pdf
+2503.23157v2	Reasoning-SQL - Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL.pdf
+2503.24364v1	Query and Conquer - Execution-Guided SQL Generation.pdf
+2504.00048v1	Distill-C - Enhanced NL2SQL via Distilled Customization with LLMs.pdf
+2504.02055v1	MageSQL - Enhancing In-context Learning for Text-to-SQL Applications with Large Language Models.pdf
+2504.02327v2	LearNAT - Learning NL2SQL with AST-guided Task Decomposition for Large Language Models.pdf
+2504.02441v2	Cognitive Memory in Large Language Models.pdf
+2504.04301v1	Sigma - A dataset for text-to-code semantic parsing with statistical analysis.pdf
+2504.04363v1	REFORMER - A ChatGPT-Driven Data Synthesis Framework Elevating Text-to-SQL Models.pdf
+2504.04808v2	ELT-Bench - An End-to-End Benchmark for Evaluating AI Agents on ELT Pipelines.pdf
+2504.05410v2	Fast Controlled Generation from Language Models with Adaptive Weighted Rejection Sampling.pdf
+2504.07389v2	Task-Circuit Quantization - Leveraging Knowledge Localization and Interpretability for Compression.pdf
+2504.08600v5	SQL-R1 - Training Natural Language to SQL Reasoning Model By Reinforcement Learning.pdf
+2504.09824v1	Abacus-SQL - A Text-to-SQL System Empowering Cross-Domain and Open-Domain Database Retrieval.pdf
+2504.11696v1	A New Paradigm of User-Centric Wireless Communication Driven by Large Language Models.pdf
+2504.13139v2	Syntactic and Semantic Control of Large Language Models via Sequential Monte Carlo.pdf
+2504.14837v5	SQL-Factory - A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation.pdf
+2504.15077v5	Think2SQL - Reinforce LLM Reasoning Capabilities for Text2SQL.pdf
+2504.17203v4	High-Fidelity And Complex Test Data Generation For Google SQL Code Generation Services.pdf
+2505.00016v2	Sparks of Tabular Reasoning via Text2SQL Reinforcement Learning.pdf
+2505.00060v1	Fact-Consistency Evaluation of Text-to-SQL Generation for Business Intelligence Using Exaone 3.5.pdf
+2505.00989v1	VTS-LLM - Domain-Adaptive LLM Agent for Enhancing Awareness in Vessel Traffic Services through Natural Language.pdf
+2505.03786v1	When Reasoning Beats Scale - A 1.5B Reasoning Model Outranks 13B LLMs as Discriminator.pdf
+2505.04671v3	Reward-SQL - Boosting Text-to-SQL via Stepwise Execution-Aware Reasoning and Process-Supervised Rewards.pdf
+2505.05286v3	HEXGEN-FLOW - Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL.pdf
+2505.11545v1	TARGET - Benchmarking Table Retrieval for Generative Tasks.pdf
+2505.11679v3	Ambiguity in LLMs is a concept missing problem.pdf
+2505.12380v3	Graph-Reward-SQL - Execution-Free Reinforcement Learning for Text-to-SQL via Graph Matching and Stepwise Reward.pdf
+2505.12768v2	ReEx-SQL - Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL.pdf
+2505.13271v2	CSC-SQL - Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning.pdf
+2505.13725v1	SQLForge - Synthesizing Reliable and Diverse Data to Enhance Text-to-SQL Reasoning in LLMs.pdf
+2505.14174v2	Cheaper, Better, Faster, Stronger - Robust Text-to-SQL without Chain-of-Thought or Fine-Tuning.pdf
+2505.14305v3	JOLT-SQL - Joint Loss Tuning of Text-to-SQL with Confusion-aware Noisy Schema Sampling.pdf
+2505.17231v1	ExeSQL - Self-Taught Text-to-SQL Models with Execution-Driven Bootstrapping for SQL Dialects.pdf
+2505.18122v1	UNJOIN - Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification.pdf
+2505.18363v1	SchemaGraphSQL - Efficient Schema Linking with Pathfinding Graph Algorithms for Text-to-SQL on Large-Scale Databases.pdf
+2505.18744v3	LogicCat - A Chain-of-Thought Text-to-SQL Benchmark for Complex Reasoning.pdf
+2505.18929v1	Meta-aware Learning in text-to-SQL Large Language Model.pdf
+2505.19197v3	Structuring the Unstructured - A Multi-Agent System for Extracting and Querying Financial KPIs and Guidance.pdf
+2505.19302v1	ODIN - A NL2SQL Recommender to Handle Schema Ambiguity.pdf
+2505.19956v2	DCG-SQL - Enhancing In-Context Learning for Text-to-SQL with Deep Contextual Schema Link Graph.pdf
+2505.19988v2	Automatic Metadata Extraction for Text-to-SQL.pdf
+2505.20315v2	Arctic-Text2SQL-R1 - Simple Rewards, Strong Reasoning in Text-to-SQL.pdf
+2505.20321v6	BiomedSQL - Text-to-SQL for Scientific Reasoning on Biomedical Knowledge Bases.pdf
+2505.20591v1	Effectiveness of Prompt Optimization in NL2SQL Systems.pdf
+2505.22096v1	Knowledge Base Construction for Knowledge-Augmented Text-to-SQL.pdf
+2505.23039v1	TailorSQL - An NL2SQL System Tailored to Your Query Workload.pdf
+2505.23804v2	Calibrating LLMs for Text-to-SQL Parsing by Leveraging Sub-clause Frequencies.pdf
+2505.23838v1	Exploring the Landscape of Text-to-SQL with Large Language Models - Progresses, Challenges and Opportunities.pdf
+2506.00391v1	SHARE - An SLM-based Hierarchical Action CorREction Assistant for Text-to-SQL.pdf
+2506.00842v2	Toward Structured Knowledge Reasoning - Contrastive Retrieval-Augmented Generation on Experience.pdf
+2506.00912v2	Pi-SQL - Enhancing Text-to-SQL with Fine-Grained Guidance from Pivot Programming Languages.pdf
+2506.00986v1	Talking to Data - Designing Smart Assistants for Humanities Databases.pdf
+2506.01273v1	RAISE - Reasoning Agent for Interactive SQL Exploration.pdf
+2506.01571v1	A Ranking Framework for Network Resource Allocation and Scheduling via Hypergraphs.pdf
+2506.01710v1	Reasoning-Table - Exploring Reinforcement Learning for Table Reasoning.pdf
+2506.03598v3	Auto prompt sql - a resource-efficient architecture for text-to-sql translation in constrained environments.pdf
+2506.04494v1	SQLens - An End-to-End Framework for Error Detection and Correction in Text-to-SQL.pdf
+2506.06093v1	Reinforcing Code Generation - Improving Text-to-SQL with Execution-Based Learning.pdf
+2506.07245v2	SDE-SQL - Enhancing Text-to-SQL Generation in Large Language Models via Self-Driven Exploration with SQL Probes.pdf
+2506.07423v1	SEED - Enhancing Text-to-SQL Performance and Practical Usability Through Automatic Evidence Generation.pdf
+2506.09359v1	Taming SQL Complexity - LLM-Based Equivalence Evaluation for Text-to-SQL.pdf
+2506.09657v2	Team Anotheroption at SemEval-2025 Task 8 - Bridging the Gap Between Open-Source and Proprietary LLMs in Table QA.pdf
+2506.10380v2	TableRAG - A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning.pdf
+2506.11266v2	Live API-Bench - 2500+ Live APIs for Testing Multi-Step Tool Calling.pdf
+2506.11986v1	Schema-R1 - A reasoning training approach for schema linking in Text-to-SQL Task.pdf
+2506.12234v1	Datrics Text2SQL - A Framework for Natural Language to SQL Query Generation.pdf
+2506.13785v1	LLM-Driven Data Generation and a Novel Soft Metric for Evaluating Text-to-SQL in Aviation MRO.pdf
+2506.16768v1	eSapiens - A Real-World NLP Framework for Multimodal Document Understanding and Enterprise Knowledge Processing.pdf
+2506.18916v2	HI-SQL - Optimizing Text-to-SQL Systems through Dynamic Hint Integration.pdf
+2506.18951v4	SWE-SQL - Illuminating LLM Pathways to Solve User SQL Issues in Real-World Applications.pdf
+2506.20747v2	Towards Probabilistic Question Answering Over Tabular Data.pdf
+2506.21575v1	STRuCT-LLM - Unifying Tabular and Graph Reasoning with Reinforcement Learning for Semantic Parsing.pdf
+2506.21849v1	The Consistency Hypothesis in Uncertainty Quantification for Large Language Models.pdf
+2506.23071v2	Text2VectorSQL - Towards a Unified Interface for Vector Search and SQL Queries.pdf
+2506.23322v1	GaussMaster - An LLM-based Database Copilot System.pdf
+2507.02529v2	RetrySQL - text-to-SQL training with retry data for self-correcting query generation.pdf
+2507.04701v2	XiYan-SQL - A Novel Multi-Generator Framework For Text-to-SQL.pdf
+2507.06013v1	CogniSQL-R1-Zero - Lightweight Reinforced Reasoning for Efficient SQL Generation.pdf
+2507.06467v1	Interactive Text-to-SQL via Expected Information Gain for Disambiguation.pdf
+2507.09592v3	THOR - Transformer Heuristics for On-Demand Retrieval.pdf
+2507.10281v1	Toward Real-World Table Agents - Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence.pdf
+2507.10629v1	SQLord - A Robust Enterprise Text-to-SQL Solution via Reverse Data Generation and Workflow Decomposition.pdf
+2507.14372v1	Text-to-SQL for Enterprise Data Analytics.pdf
+2507.17896v1	VeriMinder - Mitigating Analytical Vulnerabilities in NL2SQL.pdf
+2507.22478v1	SLM-SQL - An Exploration of Small Language Models for Text-to-SQL.pdf
+2507.23104v1	RASL - Retrieval Augmented Schema Linking for Massive Database Text-to-SQL.pdf
+2507.23358v2	Text-to-SQL Task-oriented Dialogue Ontology Construction.pdf
+2508.03680v1	Agent Lightning - Train ANY AI Agents with Reinforcement Learning.pdf
+2508.04623v1	Lightweight Transformers for Zero-Shot and Fine-Tuned Text-to-SQL Generation Using Spider.pdf
+2508.06168v1	Improving Table Retrieval with Question Generation from Partial Tables.pdf
+2508.06387v2	End-to-End Text-to-SQL with Dataset Selection - Leveraging LLMs for Adaptive Query Generation.pdf
+2508.07087v2	SQL-Exchange - Transforming SQL Queries Across Domains.pdf
+2508.07179v1	Schema Lineage Extraction at Scale - Multilingual Pipelines, Composite Evaluation, and Language-Model Benchmarks.pdf
+2508.09403v3	Columbo - Expanding Abbreviated Column Names for Tabular Data Using Large Language Models.pdf
+2508.12769v3	CRED-SQL - Enhancing Real-world Large Scale Database Text-to-SQL Parsing through Cluster Retrieval and Execution Description.pdf
+2508.13178v1	The Interpretability Analysis of the Model Can Bring Improvements to the Text-to-SQL Task.pdf
+2508.14056v1	Confidence Estimation for Text-to-SQL in Large Language Models.pdf
+2508.15276v2	AmbiSQL - Interactive Ambiguity Detection and Resolution for Text-to-SQL.pdf
+2508.15610v3	Transduction is All You Need for Structured Data Workflows.pdf
+2508.17590v1	RubikSQL - Lifelong Learning Agentic Knowledge Base as an Industrial NL2SQL System.pdf
+2508.18190v3	ST-Raptor - LLM-Powered Semi-Structured Table Question Answering.pdf
+2508.18758v1	Text to Query Plans for Question Answering on Large Tables.pdf
+2508.19372v1	Database Entity Recognition with Data Augmentation and Deep Learning.pdf
+2509.00581v2	SQL-of-Thought - Multi-agentic Text-to-SQL with Guided Error Correction.pdf
+2509.01308v2	GradeSQL - Test-Time Inference with Outcome Reward Models for Text-to-SQL Generation from Large Language Models.pdf
+2509.03937v2	SPFT-SQL - Enhancing Large Language Model for Text-to-SQL Parsing by Self-Play Fine-Tuning.pdf
+2509.04657v1	Evaluating NL2SQL via SQL2NL.pdf
+2509.05899v1	X-SQL - Expert Schema Linking and Understanding of Text-to-SQL with Multi-LLMs.pdf
+2509.07159v1	PaVeRL-SQL - Text-to-SQL via Partial-Match Rewards and Verbal Reinforcement Learning.pdf
+2509.09684v1	Text-to-SQL Oriented to the Process Mining Domain - A PT-EN Dataset for Query Translation.pdf
+2509.14507v2	DeKeyNLU - Enhancing Natural Language to SQL Generation through Task Decomposition and Keyword Extraction.pdf
+2509.19508v1	STARQA - A Question Answering Dataset for Complex Analytical Reasoning over Structured Databases.pdf
+2509.19623v1	SteinerSQL - Graph-Guided Mathematical Reasoning for Text-to-SQL Generation.pdf
+2509.23338v1	PARROT - A Benchmark for Evaluating LLMs in Cross-System SQL Translation.pdf
+2509.23459v2	MaskSQL - Safeguarding Privacy for LLM-Based Text-to-SQL via Abstraction.pdf
+2509.23988v3	LLM-Agent-as-Data-Analyst - A Survey.pdf
+2509.24212v1	ScenarioBench - Trace-Grounded Compliance Evaluation for Text-to-SQL and RAG.pdf
+2509.24403v6	Agentar-Scale-SQL - Advancing Text-to-SQL through Orchestrated Test-Time Scaling.pdf
+2509.24405v1	Multilingual Text-to-SQL - Benchmarking the Limits of Language Models with Collaborative Language Agents.pdf
+2509.25264v2	GeoSQL-Eval - First Evaluation of LLMs on PostGIS-Based NL2GeoSQL Queries.pdf
+2509.25672v1	SING-SQL - A Synthetic Data Generation Framework for In-Domain Text-to-SQL Translation.pdf
+2510.01887v1	FINCH - Financial Intelligence using Natural language for Contextualized SQL Handling.pdf
+2510.01989v1	Exploring Database Normalization Effects on SQL Generation.pdf
+2510.02350v2	LLMSQL - Upgrading WikiSQL for the LLM Era of Text-to-SQL.pdf
+2510.02394v1	Retrieval and Augmentation of Domain Knowledge for Text-to-SQL Semantic Parsing.pdf
+2510.04919v1	Do LLMs Align with My Task Evaluating Text-to-SQL via Dataset Alignment.pdf
+2510.05318v3	BIRD-INTERACT - Re-imagining Text-to-SQL Evaluation for Large Language Models via Lens of Dynamic Interactions.pdf
+2510.05921v3	Prompt reinforcing for long-term planning of large language models.pdf
+2510.07309v4	Agent Bain vs. Agent McKinsey - A New Text-to-SQL Benchmark for the Business Domain.pdf
+2510.07642v1	Role-Conditioned Refusals - Evaluating Access Control Reasoning in Large Language Models.pdf
+2510.08896v1	HES-SQL - Hybrid Reasoning for Efficient Text-to-SQL with Structural Skeleton Guidance.pdf
+2510.09014v2	LitE-SQL - A Lightweight and Efficient Text-to-SQL Framework with Vector-based Schema Linking and Execution-Guided Self-Correction.pdf
+2510.09152v1	Logits Replay + MoClip - Stabilized, Low-Cost Post-Training with Minimal Forgetting.pdf
+2510.10661v2	AGENTIQL - An Agent-Inspired Multi-Expert Framework for Text-to-SQL Generation.pdf
+2510.10885v1	Rethinking Agentic Workflows - Evaluating Inference-Based Test-Time Scaling Strategies in Text2SQL Tasks.pdf
+2510.12831v3	MTSQL-R1 - Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training.pdf
+2510.13827v2	Bridging the Semantic Gap - Contrastive Rewards for Multilingual Text-to-SQL with GRPO.pdf
+2510.13836v1	SIMBA UQ - Similarity-Based Aggregation for Uncertainty Quantification in Large Language Models.pdf
+2510.13853v2	BenchPress - A Human-in-the-Loop Annotation System for Rapid Text-to-SQL Benchmark Curation.pdf
+2510.14162v2	FinAI Data Assistant - LLM-based Financial Database Query Processing with the OpenAI Function Calling API.pdf
+2510.14296v2	Rethinking Schema Linking - A Context-Aware Bidirectional Retrieval Approach for Text-to-SQL.pdf
+2510.14808v1	Agentic NL2SQL to Reduce Computational Costs.pdf
+2510.15560v1	JudgeSQL - Reasoning over SQL Candidates with Weighted Consensus Tournament.pdf
+2510.16388v1	Unified Peripartum Database with Natural-Language-to-SQL Capabilities at Udine University Hospital - Design and Prototype.pdf
+2510.17586v3	DeepEye-SQL - A Software-Engineering-Inspired Text-to-SQL Framework.pdf
+2510.17797v2	Enterprise Deep Research - Steerable Multi-Agent Deep Research for Enterprise Analytics.pdf
+2510.21045v3	From Questions to Queries - An AI-powered Multi-Agent Framework for Spatial Text-to-SQL.pdf
+2510.23284v1	DCMM-SQL - Automated Data-Centric Pipeline and Multi-Model Collaboration Training for Text-to-SQL Model.pdf
+2510.23854v1	Can LLMs Narrate Tabular Data An Evaluation Framework for Natural Language Representations of Text-to-SQL System Outputs.pdf
+2510.23870v1	OraPlan-SQL - A Planning-Centric Framework for Complex Bilingual NL2SQL Reasoning.pdf
+2510.24102v1	Squrve - A Unified and Modular Framework for Complex Real-World Text-to-SQL Tasks.pdf
+2510.24762v1	Falcon - A Comprehensive Chinese Text-to-SQL Benchmark for Enterprise-Grade Evaluation.pdf
+2510.25510v1	MTIR-SQL - Multi-turn Tool-Integrated Reasoning Reinforcement Learning for Text-to-SQL.pdf
+2510.25997v1	From Queries to Insights - Agentic LLM Pipelines for Spatio-Temporal Text-to-SQL.pdf
+2510.26495v2	Rethinking Text-to-SQL - Dynamic Multi-turn SQL Interaction for Real-world Database Exploration.pdf
+2510.26840v2	SpotIt - Evaluating Text-to-SQL Evaluation with Formal Verification.pdf
+2510.27532v1	SQLSpace - A Representation Space for Text-to-SQL to Discover and Mitigate Robustness Gaps.pdf
+2511.00805v1	REaR - Retrieve, Expand and Refine for Effective Multitable Retrieval.pdf
+2511.00985v2	ORANGE - An Online Reflection ANd GEneration framework with Domain Knowledge for Text-to-SQL.pdf
+2511.01008v2	MARS-SQL - A multi-agent reinforcement learning framework for Text-to-SQL.pdf
+2511.03928v5	SynQuE - Estimating Synthetic Dataset Quality Without Annotations.pdf
+2511.04153v1	BAPPA - Benchmarking Agents, Plans, and Pipelines for Automated Text-to-SQL Generation.pdf
+2511.04710v1	GEMMA-SQL - A Novel Text-to-SQL Model Based on Large Language Models.pdf
+2511.10192v4	Text2SQL-Flow - A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL.pdf
+2511.10674v2	Continual Learning of Domain Knowledge from Human Feedback in Text-to-SQL.pdf
+2511.12784v3	Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing.pdf
+2511.13418v1	Exploring Multi-Table Retrieval Through Iterative Search.pdf
+2511.13590v2	Beyond SELECT - A Comprehensive Taxonomy-Guided Benchmark for Real-World Text-to-SQL Translation.pdf
+2511.16131v1	AskDB - An LLM Agent for Natural Language Interaction with Relational Databases.pdf
+2511.17190v1	AutoLink - Autonomous Schema Exploration and Expansion for Scalable Schema Linking in Text-to-SQL at Scale.pdf
+2511.17559v2	SCARE - A Benchmark for SQL Correction and Question Answerability Classification for Reliable EHR Question Answering.pdf
+2511.20677v1	Prompt Engineering Techniques for Context-dependent Text-to-SQL in Arabic.pdf
+2511.21402v1	Text-to-SQL as Dual-State Reasoning - Integrating Adaptive Context and Progressive Generation.pdf
+2511.22258v1	Beyond Query-Level Comparison - Fine-Grained Reinforcement Learning for Text-to-SQL with Automated Interpretable Critiques.pdf
+2512.11485v3	Mistake Notebook Learning - Batch-Clustered Failures for Training-Free Agent Adaptation.pdf
+2512.12084v2	FloodSQL-Bench - A Retrieval-Augmented Benchmark for Geospatially-Grounded Text-to-SQL.pdf
+2512.14622v2	Beyond Text-to-SQL - Autonomous Research-Driven Database Exploration with DAR.pdf
+2512.15798v2	Bridging Business Intent and Data - A Benchmark for Automatic Relational Data Product Generation.pdf
+2512.16676v1	DataFlow - An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI.pdf
+2512.17053v3	Knowledge Distillation with Structured Chain-of-Thought for Text-to-SQL.pdf
+2512.21345v1	Query Carefully - Detecting the Unanswerables in Text-to-SQL Tasks.pdf
+2512.21877v3	CricBench - A Multilingual Benchmark for Evaluating LLMs in Cricket Analytics.pdf
+2512.22250v1	Hallucination Detection for LLM-based Text-to-SQL Generation via Two-Stage Metamorphic Testing.pdf
+2512.22364v2	Cost Trade-offs of Reasoning and Non-Reasoning Large Language Models in Text-to-SQL.pdf
+2512.22744v1	Bridging Global Intent with Local Details - A Hierarchical Representation Approach for Semantic Validation in Text-to-SQL.pdf
+2512.23366v1	AGRO-SQL - Agentic Group-Relative Optimization with High-Fidelity Data Synthesis.pdf
+2601.01126v2	RoboPhD - Self-Improving Text-to-SQL Through Autonomous Agent Evolution.pdf
+2601.02304v1	Octopus - A Lightweight Entity-Aware System for Multi-Table Data Discovery and Cell-Level Retrieval.pdf
+2601.04875v1	EvolSQL - Structure-Aware Evolution for Scalable Text-to-SQL Data Synthesis.pdf
+2601.05451v2	RingSQL - Schema-Independent Synthetic Data Generation for Text-to-SQL Reinforcement Learning.pdf
+2601.06564v1	CSR-RAG - An Efficient Retrieval System for Text-to-SQL on the Enterprise Scale.pdf
+2601.06678v1	Reflective Reasoning for SQL Generation.pdf
+2601.08743v1	TableCache - Primary Foreign Key Guided KV Cache Precomputation for Low Latency Text-to-SQL.pdf
+2601.08778v3	Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards.pdf
+2601.08838v1	Companion Agents - A Table-Information Mining Paradigm for Text-to-SQL.pdf
+2601.09404v1	TiInsight - A SQL-based Automated Exploratory Data Analysis System through Large Language Models.pdf
+2601.09876v1	Patient-Similarity Cohort Reasoning in Clinical Text-to-SQL.pdf
+2601.10011v1	Memo-SQL - Structured Decomposition and Experience-Driven Self-Correction for Training-Free NL2SQL.pdf
+2601.10318v1	Boundary-Aware NL2SQL - Integrating Reliability through Hybrid Reward and Data Synthesis.pdf
+2601.10398v3	LatentRefusal - Latent-Signal Refusal for Unanswerable Text-to-SQL Queries.pdf
+2601.13111v3	CORE-T - COherent REtrieval of Tables for Text-to-SQL.pdf
+2601.13695v2	OptiSQL - Executable SQL Generation from Optical Tokens.pdf
+2601.14518v1	Business Logic-Driven Text-to-SQL Data Synthesis for Business Intelligence.pdf
+2601.15709v1	AgentSM - Semantic Memory for Agentic Text-to-SQL.pdf
+2601.15728v2	Benchmarking Text-to-Python against Text-to-SQL - The Impact of Explicit Logic and Ambiguity.pdf
+2601.17699v1	SQL-Trail - Multi-Turn Reinforcement Learning with Interleaved Feedback for Text-to-SQL.pdf
+2601.17942v1	LLM-Based SQL Generation - Prompting, Self-Refinement, and Adaptive Weighted Majority Voting.pdf
+2601.18119v2	Beyond Text-to-SQL - Can LLMs Really Debug Enterprise ETL SQL.pdf
+2602.00994v3	Reasoning and Tool-use Compete in Agentic RL -From Quantifying Interference to Disentangled Tuning.pdf
+2602.01355v2	Aggregation Queries over Unstructured Text - Benchmark and Agentic Method.pdf
+2602.03633v1	BIRDTurk - Adaptation of the BIRD Text-to-SQL Dataset to Turkish.pdf
+2602.05385v2	IESR -Efficient MCTS-Based Modular Reasoning for Text-to-SQL with Large Language Models.pdf
+2602.07034v1	ST-Raptor - An Agentic System for Semi-Structured Table QA.pdf
+2602.12015v2	Disentangling Ambiguity from Instability in Large Language Models - A Clinical Text-to-SQL Case Study.pdf
+2602.12064v1	DIVER - A Robust Text-to-SQL System with Dynamic Interactive Value Linking and Evidence Reasoning.pdf
+2602.13521v2	Arming Data Agents with Tribal Knowledge.pdf
+2602.15564v1	Beyond Static Pipelines - Learning Dynamic Workflows for Text-to-SQL.pdf
+2602.16720v2	APEX-SQL - Talking to the data via Agentic Exploration for Text-to-SQL.pdf
+2602.17001v3	Sonar-TS - Search-Then-Verify Natural Language Querying for Time Series Databases.pdf
+2602.18492v2	Vibe Coding on Trial - Operating Characteristics of Unanimous LLM Juries.pdf
+2602.21480v4	Both Ends Count! Just How Good are LLM Agents at Text-to-Big SQL.pdf
+2602.22223v1	SQaLe - A Large Text-to-SQL Corpus Grounded in Real Schemas.pdf
+2603.03742v2	ErrorLLM - Modeling SQL Errors for Text-to-SQL Refinement.pdf
+2603.04334v3	SpotIt+ - Verification-based Text-to-SQL Evaluation with Database Constraints.pdf
+2603.05569v2	CBR-to-SQL - Rethinking Retrieval-based Text-to-SQL using Case-based Reasoning in the Healthcare Domain.pdf
+2603.05996v1	Track-SQL - Enhancing Generative Language Models with Dual-Extractive Modules for Schema and Context Tracking in Multi-turn Text-to-SQL.pdf
+2603.07449v2	Dial - A Knowledge-Grounded Dialect-Specific NL2SQL System.pdf
+2603.07950v1	Decomposition-Driven Multi-Table Retrieval and Reasoning for Numerical Question Answering.pdf
+2603.10697v1	EvoSchema - Towards Text-to-SQL Robustness Against Schema Evolution.pdf
+2603.13390v1	MCI-SQL - Text-to-SQL with Metadata-Complete Context and Intermediate Correction.pdf
+2603.16157v2	DyJR - Preserving Diversity in Reinforcement Learning with Verifiable Rewards via Dynamic Jensen-Shannon Replay.pdf
+2603.16161v1	SQL-ASTRA - Alleviating Sparse Feedback in Agentic SQL via Column-Set Matching and Trajectory Aggregation.pdf
+2603.16448v3	TRUST-SQL - Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas.pdf
+2603.17017v1	LLM NL2SQL Robustness - Surface Noise vs. Linguistic Variation in Traditional and Agentic Settings.pdf
+2603.17815v2	RAWR - Reward Assignment Without Rollouts in Verifiable Domains.pdf
+2603.18018v1	An Agentic System for Schema Aware NL2SQL Generation.pdf
+2603.18620v1	Learning to Self-Evolve.pdf
+2603.18835v2	Tursio Database Search - How far are we from ChatGPT.pdf
+2603.20004v4	Human-Level Text-to-SQL via Reinforcement Learning on Verified Data, Without Pipeline Engineering.pdf
+2603.20576v3	Can AI Agents Answer Your Data Questions A Benchmark for Data Agents.pdf
+2603.22942v1	Optimizing Small Language Models for NL2SQL via Chain-of-Thought Fine-Tuning.pdf
+2603.23055v4	Post-Selection Distributional Model Evaluation.pdf
+2603.24023v1	Schema on the Inside - A Two-Phase Fine-Tuning Method for High-Efficiency Text-to-SQL at Scale.pdf
+2603.29399v2	ELT-Bench-Verified - Benchmark Quality Issues Underestimate AI Agent Capabilities.pdf
+2604.01168v2	S0 Tuning - Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models.pdf
+2604.01601v2	Contrast Matters - Understanding Robustness of In-Context Fine-Tuning to Target-Context Relatedness.pdf
+2604.02444v2	From Textual Columns to Query Plans - A Unified Relational-Semantic Execution Framework for Hybrid Query Processing.pdf
+2604.06736v2	SQLStructEval - Structural Evaluation of LLM Text-to-SQL Generation.pdf
+2604.07041v1	AV-SQL - Decomposing Complex Text-to-SQL Queries with Agentic Views.pdf
+2604.09408v4	HiL-Bench (Human-in-Loop Benchmark) - Do Agents Know When to Ask for Help.pdf
+2604.12988v1	ROSE - An Intent-Centered Evaluation Metric for NL2SQL.pdf
+2604.13045v1	Draft-Refine-Optimize - Self-Evolved Learning for Natural Language to MongoDB Query Generation.pdf
+2604.13686v1	IndicDB -- Benchmarking Multilingual Text-to-SQL Capabilities in Indian Languages.pdf
+2604.15163v2	DPC - Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency.pdf
+2604.15233v1	Blue Data Intelligence Layer - Streaming Data and Agents for Multi-source Multi-modal Data-Centric Applications.pdf
+2604.15646v1	FD-NL2SQL - Feedback-Driven Clinical NL2SQL that Improves with Use.pdf
+2604.16493v1	NL2SQLBench - A Modular Benchmarking Framework for LLM-Enabled NL2SQL Solutions.pdf
+2604.17653v1	PV-SQL - Synergizing Database Probing and Rule-based Verification for Text-to-SQL Agents.pdf
+2604.17771v1	SPENCE - A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks.pdf
+2604.18254v1	LeGo-Code - Can Modular Curriculum Learning Advance Complex Code Generation Insights from Text-to-SQL.pdf
+2604.21214v3	A Demonstration of SQLyzr - A Platform for Fine-Grained Text-to-SQL Evaluation and Analysis.pdf
+2604.21413v3	RUBICON - Agentic AI for Messy Enterprise Data.pdf
+2604.21414v1	SemanticAgent - A Semantics-Aware Framework for Text-to-SQL Data Synthesis.pdf
+2604.22313v1	CLARITY - A Framework and Benchmark for Conversational Language Ambiguity and Unanswerability in Interactive NL2SQL Systems.pdf
+2604.22934v1	PExA - Parallel Exploration Agent for Complex Text-to-SQL.pdf
+2604.23477v2	SEMA-SQL - Beyond Traditional Relational Querying with Large Language Models.pdf
+2604.25149v1	Semantic Layers for Reliable LLM-Powered Data Analytics - A Paired Benchmark of Accuracy and Hallucination Across Three Frontier Models.pdf
+2604.25325v1	R^3-SQL - Ranking Reward and Resampling for Text-to-SQL.pdf
+2604.27261v1	SynSQL - Synthesizing Relational Databases for Robust Evaluation of Text-to-SQL Systems.pdf
+2604.28028v1	Reliable Answers for Recurring Questions - Boosting Text-to-SQL Accuracy with Template Constrained Decoding.pdf
+2604.28049v1	Agent-Agnostic Evaluation of SQL Accuracy in Production Text-to-SQL Systems.pdf
+2605.00628v1	EGREFINE - An Execution-Grounded Optimization Framework for Text-to-SQL Schema Refinement.pdf
+2605.02815v2	FlexSQL - Flexible Exploration and Execution Make Better Text-to-SQL Agents.pdf
+2605.03465v1	FINER-SQL - Boosting Small Language Models for Text-to-SQL.pdf
+2605.03720v1	Rose-SQL - Role-State Evolution Guided Structured Reasoning for Multi-Turn Text-to-SQL.pdf
+2605.04719v2	Every Step Counts - Step-Level Credit Assignment for Tool-Integrated Text-to-SQL.pdf
+2605.05260v1	SecureMCP - A Policy-Enforced LLM Data Access Framework for AIoT Systems via Model Context Protocol.pdf
+2605.05525v1	Anatomy of a Query - W5H Dimensions and FAR Patterns for Text-to-SQL Evaluation.pdf
+2605.07796v1	PolySQL - Scaling Text-to-SQL Evaluation Across SQL Dialects via Automated Backend Isomorphism.pdf
+2605.08057v1	CA-SQL - Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploration and Compute Budget Allocation.pdf
+2605.09295v1	LEAF-SQL - Level-wise Exploration with Adaptive Fine-graining for Text-to-SQL Skeleton Prediction.pdf
+2605.12319v2	Data-aware candidate selection in NL2SQL translation via small separating instances.pdf
+2605.14259v3	Hypergraph Enterprise Agentic Reasoner over Heterogeneous Business Systems.pdf
+2605.18015v1	LogRouter - Adaptive Two-Level LLM Routing for Log Question Answering in Big Data Systems.pdf
+2605.18766v1	Retrieve Only Relevant Tables Whether Few or Many - Adaptive Table Retrieval Method.pdf
+2605.18775v1	Query-Aware Flow Diffusion for Graph-Based RAG with Retrieval Guarantees.pdf
+2605.19010v1	AgentNLQ - A General-Purpose Agent for Natural Language to SQL.pdf
+2605.21027v2	Beyond Text-to-SQL - An Agentic LLM System for Governed Enterprise Analytics APIs.pdf
+2605.21792v1	Residual Skill Optimization for Text-to-SQL Ensembles.pdf
+2605.22811v1	GS-QA - A Benchmark for Geospatial Question Answering.pdf
+2605.22843v1	Knowledge Distillation for Low-Resource Open-source Text-to-SQL Model.pdf
+2605.23914v1	VineLM - Trie-Based Fine-Grained Control for Agentic Workflows.pdf
+2605.25226v1	From Automation to Collaboration - Human-in-the-Loop Methods for Safe and Trustworthy NLP.pdf
+2605.25838v1	Same Data, Different Schemas - Robustness of LLM-based Text-to-SQL.pdf
+2605.26394v1	Memory Architectures for Multi-Turn Text-to-SQL - A Benchmark and Empirical Study.pdf
+2605.27791v2	Are Diffusion Language Models Good Database Analysts.pdf
+2605.29670v2	EviLink - Multi-Path Schema Linking with Uncertainty-Guided Evidence Acquisition for Large-Scale Text-to-SQL.pdf
+2605.30538v1	DisasterLex - An Expert Concept-to-Schema Knowledge Graph for Geospatial Reasoning in Disaster Analytics.pdf
+2606.00547v2	Learning to Retrieve - Dual-Level Long-Term Memory for Text-to-SQL Agents.pdf
+2606.01246v1	SIRIUS-SQL - Anchoring Multi-Candidate Text-to-SQL in Execution Feedback.pdf
+2606.02109v1	BADGER - Bridging Agentic and Deterministic Evaluation for Generative Enterprise Reasoning.pdf
+2606.03145v1	The Case for Text-to-SQL Friendly Logical Database Design.pdf
+2606.03327v1	CAPER - Clause-Aligned Process Supervision for Text-to-SQL.pdf
+2606.03363v3	EntSQL - A Benchmark for Grounding Text-to-SQL in Long-Context Enterprise Knowledge.pdf
+2606.04500v1	SANE Schema-aware Natural-language Evaluation of Biological Data.pdf
+2606.05634v1	Bootstrapping Semantic Layer from Execution for Text-to-SQL.pdf
+2606.05836v1	ProSPy - A Profiling-Driven SQL-Python Agentic Framework for Enterprise Text-to-SQL.pdf
+2606.05906v1	ACE-SQL - Adaptive Co-Optimization via Empirical Credit Assignment for Text-to-SQL.pdf
+2606.06825v1	Progress-SQL - Improving Reinforcement Learning for Text-to-SQL via Progressive Rewards.pdf
+2606.08018v1	UniQL - Towards Dialect-Universal Benchmarking for Text-to-SQL.pdf
+2606.08245v1	ZAS-SQL - Distilling Rules from Failures for Zero-Shot Text-to-SQL.pdf
+2606.10125v2	Robust Active Learning for Few-Shot Example Selection in Text-to-SQL.pdf
+2606.11424v1	SOMA-SQL - Resolving Multi-Source Ambiguity in NL-to-SQL via Synthetic Log and Execution Probing.pdf
+2606.12387v1	TAHOE - Text-to-SQL with Automated Hint Optimization from Experience.pdf
+2606.14201v1	TACO - A Benchmark for Open-Domain Text-to-SQL with Ambiguous and Cross-Database Queries.pdf
+2606.14211v1	Closing the Reflection Gap - A Free Calibration Bonus for Agentic RL.pdf
+2606.15598v1	Integrating Reasoning and Generalization in Text-to-SQL via Self-Enhanced Fine-Tuning.pdf
+2606.17821v1	DecoSearch - Complexity-Aware Routing and Plan-Level Repair for Text-to-SQL.pdf
+2606.18108v1	Querying an astronomical database using large language models - the ALeRCE text-to-SQL system.pdf
+2606.21685v1	TACO - Task-Aware Column Description Generation Using LLMs.pdf
+2606.22586v1	Text2DSL - LLM-Based Code Generation for Domain-Specific Languages.pdf
+2606.23537v1	SQLConductor - Search-to-Policy Learning for Step-wise Text-to-SQL Orchestration.pdf
+2606.23693v1	EXPO-SQL - Execution-based Clause-level Policy Optimization for Text-to-SQL.pdf
+2606.26627v1	Agents That Know Too Much - A Data-Centric Survey of Privacy in LLM Agents.pdf
+2606.28370v1	Conversational Query Engine for Mixed-Modality Heterogeneous Enterprise Data Sources.pdf
+2606.28387v1	Schema-First Retrieval - Embedding Catalogs for Natural Language Analytics.pdf
+2606.28601v1	Database Context Compression for Text-to-SQL on Real-World Large Databases.pdf
+2606.29733v2	How far do on-premises open LLMs get on Text-to-SQL A cross-family size and technique frontier on BIRD.pdf
+2606.30851v1	Test-Time Verification for Text-to-SQL via Outcome Reward Models.pdf
+2606.31041v1	A Semantic-Layer-Mediated Agent for Natural Language to SQL over Heterogeneous Enterprise Databases.pdf
+2606.31648v1	Think in English, Answer in Korean - Efficient Adaptation of Multilingual Tool-Using Agents.pdf
+2607.03501v1	STRATOS - Bridging the Symbolic-to-Numeric Gap in Spatio-Temporal Text-to-SQL for Meteorological Data.pdf
+2607.03833v1	Beyond Static Rules - Automated Discovery of Latent Vulnerabilities in Text-to-SQL.pdf
+2607.03991v1	Knowing When to Stop - Predicting Execution-Consistency Convergence in Text-to-SQL.pdf
+2607.06229v1	Spider 2.0-AIFunc - Extending Real-World Text-to-SQL to AI-Native SQL Workflows.pdf
+2607.06799v1	What Predicts Correctness in Text-to-SQL A Selective-Prediction Study.pdf
+2607.07026v1	Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata.pdf
+2607.08124v2	TTHE - Test-Time Harness Evolution.pdf
+2607.08161v1	SQuaD-SQL - Efficient Text-to-SQL with Small Language Models via LLM-Guided Knowledge Distillation.pdf
+2607.10911v1	The Nuts and Bolts of Natural Language to SQL Translation - A Systematic Analysis of Model Pipeline Optimisation Approaches and their Interactions.pdf
+2607.11207v1	ProgramTab - Boosting Table Reasoning of LLMs via Programmatic Paradigm.pdf
+2607.12341v2	Policy-Conditioned Constrained Decoding for Column-Level Access Control in Text-to-SQL.pdf
+2607.13311v1	Finding the Right Tables and Columns - A Benchmark and Corpus-Adaptive Embeddings for SQL Schema Retrieval.pdf
+2607.14506v1	Non-vacuous Generalization Bounds for Reinforcement Learning with Verifiable Rewards.pdf
+2607.20489v2	EvoSQL - Memory-Augmented Critic-Generator Co-Evolution for Text-to-SQL.pdf
+2607.22115v2	Benchmarking Text-to-SQL under Role-Based Access Control.pdf
+2607.22572v1	Schema-Aware Localisation (SAL) - Live Schema Grounding and Hallucination Validation for Oracle NL2SQL.pdf
+2607.22622v1	Learning When to Reason for Text-to-SQL via SFT and DPO.pdf
+2607.22624v1	CHS-SQL - A Text-to-SQL approach based on Confidence-Guided Heuristic Search Schema Linking process.pdf
+2607.23340v1	ABISS - Evaluating Text-to-SQL Systems Through Agent Interaction.pdf
+2607.25243v1	AuthentiCity - A Multi-Source Provenance-Aware Knowledge Graph and Benchmark for 3D City Models.pdf
+2607.25583v1	How Small Can You Go A Controlled Study of LoRA Rank, Target Modules, and Quantization Trade-offs for Text-to-SQL on a 60M-Parameter Model.pdf
+2607.27288v1	Open Security Benchmark - Towards Autonomous Enterprise Cyber Defense.pdf
+2607.28033v1	DataClawEval - A Benchmark for Data Engineering Agents in Real Industrial Harness.pdf
+2608.00017v1	Memory Reward Inflation in Self-Improving LLM Agents.pdf
+2608.00485v4	SERL-SQL - Selective Hindsight Distillation for Text-to-SQL Reinforcement Agentic Learning.pdf
+2608.00693v1	AttnLink - Turning Attention into Schema Links for Text-to-SQL.pdf
+2608.02876v1	BAP-SQL - Budget-Aware Observation Planning for Agentic Text-to-SQL.pdf
+2608.03794v1	Evaluating LLMs in Database Scenarios - A Lifecycle Benchmark for Assessing Their Potential in Core Database Tasks.pdf
+2608.05906v2	Causal Episodic Memory for Feedback-Driven Agent Repair.pdf
+2608.06950v1	MIRA - Evidence-Verified Repair Memory for Text-to-SQL Correction.pdf
+2608.07213v1	From Test-Time Scaling to Reusable Memory - Measuring Crystallization in Text-to-SQL.pdf
+2608.07946v1	Metadata Reconstruction from Values Alone - Recovering Column Semantics in Undocumented Warehouses.pdf
+2608.08514v1	Reproducing and Stress-Testing Two Approaches to LLM Reasoning Reliability - Test-Time Probability Aggregation and Logic-Representation Editing.pdf
+2608.09260v1	SafeQL - Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL.pdf
+2608.09588v1	MDB-Link - Hierarchical Schema Linking for Multi-Database Text-to-SQL.pdf
+2608.10137v2	The Parser Already Knows - Lightweight Bias Correction in Constrained Decoding.pdf
+2608.11889v2	DexterSQL - Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation.pdf
+2608.12338v1	SDAM - Structure-Difference-Aware Memory Evolution for Complex Text-to-SQL.pdf
+2608.13926v1	Never the Number - Structural Abstention for AI Systems Whose Answers Are Consumed as Fact.pdf
+2608.15145v1	ACTS-SQL - Agentic and Critic-Oriented Tree-Structured SQL Correctness with Large Language Models.pdf
+2608.15389v2	Agentic-SQL Revisited - Autonomy-Based Taxonomy and Empirical Benchmark Analysis for LLM Text-to-SQL.pdf
+2608.15931v1	PLSQLBench - Benchmarking LLM Systems for Executable Procedural Database Programming.pdf
+2608.16663v1	Bounded Semantic Planning and Deterministic Compilation for Reliable Enterprise Text-to-SQL.pdf
+2608.17171v1	Polaris - Learning to Generate Table Descriptions from Retrieval Feedback.pdf
+2608.17795v2	TraceSQL - Traceable Answerability Estimation for Reference-Free Text-to-SQL Verification.pdf
+2608.20356v1	Disentangling Structure and Semantics - How Schema Representation Affects LLM-Based SQL Generation.pdf
+2608.20918v1	UpgradeBench - A Decision-Centric Benchmark for Upgrading Fine-Tuned LLM Specialists.pdf
+2608.22651v1	Iteration Without Elaboration - A Simple ReAct Architecture Suffices for Text-to-SQL Generation.pdf
+2608.22772v1	SPOC-SQL - Stage-wise Preference Optimization for Controllable Text-to-SQL.pdf
+2608.22830v1	Beyond the Harness - End-to-End Optimization of Context Artifacts for Enterprise Text-to-SQL.pdf
+2608.23569v1	ESQ-Bench - A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence.pdf
+2608.25761v1	Beam Search, Self-Consistency, and the Limits of Inference-Time Scaling for Grammar-Constrained Text-to-SQL in Small Language Models.pdf
+2608.26036v2	Trace Integrity for LLM Data Agents - Auditing Structured-Data Computation Beyond Answer Accuracy in Real-World Systems.pdf
+2608.26157v1	GROUND - Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions.pdf
+2608.26172v1	DRL - A Deterministic Relational Middleware Layer for Transaction-Safe Enterprise NL2SQL Under Schema-Graph Scaling.pdf
+2608.26730v1	Knowing When Not to Reuse - Conditional Experience Transfer in Autonomous LLM Post-Training.pdf
+2608.27796v1	ReToolSQL - Agentic Reinforcement Learning for Robust Text-to-SQL.pdf
+2608.28276v2	Parser Transitions Already Reveal Structural Responsibility - KV Persistence for Structured Generation.pdf
+2608.28432v1	Are These Modules Worth Their Cost A Paradigm-Level Accuracy-Cost Analysis of In-context Learning Text-to-SQL.pdf
+2608.29345v1	BIRD-History - A Benchmark for History-Driven Text-to-SQL with Fine-Grained Knowledge Annotations.pdf
+2608.29543v1	Evaluating LLMs on Conversational Text-to-SQL under Chain Ambiguity and Intent Drift.pdf
+2609.00367v1	Neurosymbolics for Data Engineering - Achieving Long Context Token Reduction Without Finetuning.pdf
+2609.00834v1	Replacing Training with Memory - Listwise Selection for Text-to-SQL.pdf
+2609.02944v1	Reflect-SQL - A Self-Reflection Based Framework for Text-to-SQL.pdf
+2609.03898v1	From Data Querying to Data Investigations - Rethinking Natural Language Interfaces for Databases.pdf
+2609.04641v1	A Cost-Aware Agentic Architecture for NL-to-SQL over Nested Enterprise Schemas, with a New Benchmark.pdf
+2609.04697v1	SQL-Zero - Self-Evolving Text-to-SQL.pdf
+2609.07629v2	Open Tabular Insight Extraction - Where Do We Stand, and Where Should We Go.pdf
+2609.08950v1	SQLMorph - Query Mutation and Fine-Grained Metrics for Text-to-SQL Evaluation.pdf
+2609.09182v1	Evaluating Enterprise Analytics Agents - An End-to-End, Trace-Backed Methodology.pdf
+2609.14745v1	PIMENTO - A Privacy Framework for Querying Text.pdf
+2609.16800v2	Smarter by the Moment - Environment-Driven Dynamic Policies for Continual LLM Improvement.pdf
+2609.18135v1	DualSQL - Text-to-SQL with Multi-Agent Reinforcement Learning.pdf
+2609.20842v1	COAL-SQL - Coverage-Guided Augmentation and Failure-Driven Learning for Text-to-SQL Post-Training.pdf
+2609.21133v1	The Stochastic Shift - A New Evaluation Paradigm for Text-to-SQL with AI Operators.pdf
+2609.22259v1	Which Part of the Context Layer Does the Work Separating Semantic Content from Retrieval Scaffolding in Text-to-SQL Agents.pdf
+2609.22917v2	An Iterative LangGraph Agent for Text-to-SQL - Natural Language Access to the Chicago Crime Database.pdf
+2609.24186v1	LIMIT - Less Is More for Instruction Tuning in Text-to-SQL.pdf
+2609.25299v1	Making Agents More Consistent - Skills Should Form Habits for Repeat Tasks.pdf
+2609.25938v1	Certified Against Which Oracle Execution Labels Set the Reported Risk of Conformal Abstention for Text-to-SQL.pdf
+2609.29573v1	ModularSQL - A Runtime Guardrail for the Multiplicity Blind Spot in Text-to-SQL.pdf
+2609.29988v1	Let Training Guide Selection - Online Synthetic Data Filtering via Real-Anchored Utility.pdf
+2609.30290v1	Auditing and Repairing LLM-as-Judge Failures in a Production Text-to-SQL Pipeline.pdf
+2609.30547v1	REALMS - An AI-Assistant Conversational System for Real-Time Exact Audience Sizing over High-Dimensional Nested Profiles.pdf
+2609.33670v1	Closing the Cross-Dialect Gap - Query Plans as a Portable Interface in Text-to-SQL.pdf
+2609.36789v1	GitHarness - Git Init Your Harness Working Memory for Perpetual User Requirements.pdf
+2610.00092v1	BudgetSchemaBench - A Budget-Swept Diagnostic for Schema Context in Text-to-SQL.pdf
+2610.00791v1	Enterprise Representation Simplification (ERS) - Reducing Representational Complexity for Enterprise AI.pdf
+2610.01064v1	JoinGR - Learning to Traverse Join Graphs for Table Retrieval.pdf
+2610.02122v1	Argo-Bench - Evaluating Data Agents on Enterprise-Scale Workflows.pdf
+2610.02739v1	Beyond Correctness - Resolving Underspecification in Agentic Text-to-SQL.pdf
+2610.02770v1	AptMQL-Bench - From Text-to-SQL to Text-to-MQL via Access-Pattern Schema Design and Data-Preserving Migration.pdf
+2610.03524v1	From Benchmarks to Production - A Text-to-SQL System for Complex Financial Data.pdf
+2610.03625v1	FALCON - A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs.pdf
+2610.04156v1	Trajectory-Derived Confidence for Reliable, Resource-Aware Clinical Text-to-SQL Agents.pdf
+2610.05060v1	Why, Where, How - Taxonomy-guided Error Grounding for Code Repair in NL2SQL.pdf
+2610.06914v2	A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain.pdf
+2610.09396v2	ARCS - Towards Precise Text-to-SQL via Structured Disambiguation.pdf
+2610.10091v1	ExperienceIndex - Artifact-Grounded Memory.pdf
+2610.10740v1	Conversational Task Disambiguation over Tabular Data - Leakage-Aware Formulation, Benchmark Suite, and Training.pdf
+2610.11464v1	Who Verifies the Verifier Co-Evolving Inspectable Graders with Self-Improving Agents.pdf
+2610.12274v3	HarnessSQL - Harness-Native Training for SQL Agents in Realistic Database Environments.pdf
+2610.13000v1	Hindsight Structured Advice Distillation - Steering Executor Agents with Advisors Trained on Their Failures and Task Characteristics.pdf
+2610.14700v1	DSABench - Benchmarking Source Discovery, Coordination, and Execution for Multi-Database Agents.pdf
+2610.17256v1	Does a Governed Confidence Score Know When a Text-to-SQL Answer Is Right An Exploratory Study on BIRD and a Pre-registered Confirmation on Spider.pdf
+2610.17305v1	Reliable Text-to-SQL in Resource-Constrained Settings with Small LLMs via Iterative Retry Workflows.pdf
+2610.17493v1	VeriPIE - Checkable Query Plans and Evidence-Guided Selection for Text-to-SQL.pdf
+2610.19184v2	HERO - Harnessing Evidence for Test-time Refinement and Prompt Optimization in Program Generation.pdf
+2610.20052v1	What Is a Clarification Estimating Model-Dependent Input Ambiguity.pdf
+2610.21439v1	Each Reward to Its Relevant Tokens - Reward-Specific Token-Level Credit Assignment for Multi-Reward RL.pdf
+2610.22158v1	PremiseSQL - Evaluating Premise Critique and Abstention in Text-to-SQL Systems.pdf
+2610.22290v1	EliteReplay - Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search.pdf
+2610.22442v1	Efficient Dialect-Agnostic SQL Equivalence Refutation.pdf
+2610.22968v1	NL2SQL with Iterative Self-Refinement.pdf
+2610.24248v1	Probing Ambiguity - Adversarial Intent Resolution for Robust Text-to-SQL.pdf
+2610.24899v2	HybridResearcher - Bridging the Structured-Unstructured Boundary for Deep Research Agents.pdf
+2610.25078v1	CoEvo-RSI - When Harnesses Evolve, Which Models Should Follow.pdf
+2610.27720v1	Tracing Recurrent and Emergent Hallucination Patterns in Decomposed Text-to-SQL Generation.pdf
+2610.30100v1	Building SQL Equivalence Proofs from Query Rewrite Rules.pdf
+2610.33946v1	Schema-Free Text-to-SQL - Learning Enterprise Database Structure from Query Logs.pdf
